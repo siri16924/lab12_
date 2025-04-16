@@ -35,7 +35,7 @@
 | 1   | Style.css is not filled                  |         Narain|   Whole Team |
 | 2   | removed unused home.js                   |     hasini    |     hasini   |
 | 3   |fixed http method in items in delte       |sowjanya       |  sowjanya    |
-| 4   |                                          |               |              |
+| 4   |incorrect delete route in items.py        | Poojitha      |  Poojitha    |
 | 5   |                                          |               |              |
 | 6   |                                          |               |              |
 | 7   |                                          |               |              |
