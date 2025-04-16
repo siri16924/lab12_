@@ -1,2 +1,124 @@
-Aah I was too lazy to implement this
-You can do it
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  /* Centering the content */
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Navigation Styles */
+  nav {
+    background-color: rgb(78, 78, 227);
+    padding: 15px;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+    padding: 10px;
+  }
+  
+  nav a:hover {
+    background-color: #367dc4;
+    border-radius: 5px;
+  }
+  
+  /* Title and Section Styles */
+  h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #333;
+  }
+  
+  p, input, select, button {
+    font-size: 1rem;
+    color: #333;
+    display: block;
+    margin: 10px auto;
+    width: 80%;
+    padding: 10px;
+  }
+  
+  input[type="text"], select {
+    width: 80%;
+    padding: 10px;
+    margin: 10px auto;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: rgb(78, 78, 202);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 1rem;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  button:hover {
+    background-color: #0066cc;
+  }
+  
+  /* Form and List Elements */
+  form {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin: 10px 0;
+  }
+  
+  /* Other Custom Styling */
+  #stats, #attemptList, #newsList, #itemList {
+    text-align: center;
+  }
+  
+  #stats p, #attemptCount, #articleCount {
+    font-weight: bold;
+  }
+  
+  #loading {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #007bff;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  .news-scrollable, .attempt-scrollable {
+    max-height: 300px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  
+  #search {
+    width: 80%;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 5px;
+  }
