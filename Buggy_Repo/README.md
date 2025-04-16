@@ -39,7 +39,7 @@
 | 5   |news is not getting updated as we search or change source                                   | Manaswini              |   Manaswini           |
 | 6   |      incorrect base url in analytics.js                                    |               |    Manaswini          |Manaswini
 | 7   |error handling in db.py                   |Poojitha       | Poojitha     |
-| 8   |                                          |               |              |
+| 8   | missing analytics and news links in nav  |Poojitha       |Poojitha      |
 | 9   |                                          |               |              |
 | 10  |                                          |               |              |
 | 11  |                                          |               |              |
