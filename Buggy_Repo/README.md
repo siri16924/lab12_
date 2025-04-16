@@ -27,6 +27,11 @@
 ### Add the names of the members and roll numbers of your team below
 
 - Name : Roll Number
+Sree Chandana, 2024101029
+Manaswini, 2024101094
+Sowjanya, 2024101066
+Hasini, 2024101042
+Poojitha, 2024101055
 
 ### Table to keep track
 
@@ -39,10 +44,17 @@
 | 5   |news is not getting updated as we search or change source                                   | Manaswini              |   Manaswini           |
 | 6   |      incorrect base url in analytics.js                                    |               |    Manaswini          |Manaswini
 | 7   |error handling in db.py                   |Poojitha       | Poojitha     |
+<<<<<<< Updated upstream
 | 8   | missing analytics and news links in nav  |Poojitha       |Poojitha      |
 | 9   |                                          |               |              |
 | 10  |                                          |               |              |
 | 11  |                                          |               |              |
+=======
+| 8   | analytic plot                            |  chandana     |  chandana       |          
+| 9   | analytic navigation                                         | chandana      |   chandana      |              
+| 10  |        analytic json response            | chandana    |      chandana                            |              
+| 11  |  css little                                        |               | chandana             |
+>>>>>>> Stashed changes
 | 12  |                                          |               |              |
 | 13  |                                          |               |              |
 | 14  |                                          |               |              |
