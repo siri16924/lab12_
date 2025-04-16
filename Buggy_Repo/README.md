@@ -37,7 +37,7 @@
 | 3   |fixed http method in items in delte       |sowjanya       |  sowjanya    |
 | 4   |incorrect delete route in items.py        | Poojitha      |  Poojitha    |
 | 5   |news is not getting updated as we search or change source                                   | Manaswini              |   Manaswini           |
-| 6   |                                          |               |              |
+| 6   |      incorrect base url in analytics.js                                    |               |    Manaswini          |Manaswini
 | 7   |                                          |               |              |
 | 8   |                                          |               |              |
 | 9   |                                          |               |              |
