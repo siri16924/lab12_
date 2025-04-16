@@ -13,7 +13,27 @@
     <a href="analytics.html">Analytics</a>
     <a href="news.html">News</a>
   </nav>
-  <!-- fuck I think I deleted a container, god help me-->
+
+  <!-- 🛠️ Restored the missing container -->
+  <main>
+    <h1>Item Manager</h1>
+
+    <!-- Search Bar -->
+    <input type="text" id="search" placeholder="Search items..." />
+
+    <!-- Item Count -->
+    <p id="itemCount">Total items: 0</p>
+
+    <!-- Item List -->
+    <ul id="itemList"></ul>
+
+    <!-- Item Form -->
+    <form id="itemForm">
+      <input type="text" id="name" placeholder="Item name" required />
+      <input type="text" id="description" placeholder="Description" required />
+      <button type="submit">Add Item</button>
+    </form>
+  </main>
 
   <script src="scripts/items.js"></script>
 </body>
