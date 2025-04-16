@@ -36,7 +36,7 @@
 | 2   | removed unused home.js                   |     hasini    |     hasini   |
 | 3   |fixed http method in items in delte       |sowjanya       |  sowjanya    |
 | 4   |incorrect delete route in items.py        | Poojitha      |  Poojitha    |
-| 5   |                                          |               |              |
+| 5   |news is not getting updated as we search or change source                                   | Manaswini              |   Manaswini           |
 | 6   |                                          |               |              |
 | 7   |                                          |               |              |
 | 8   |                                          |               |              |

@@ -66,3 +66,22 @@ async function loadNews(searchTerm = "", source = "all", reset = false) {
 
 
 loadNews();
+// Add this at the end of your news.js
+document.addEventListener("DOMContentLoaded", () => {
+  const searchInput = document.getElementById("search");
+  const sourceSelect = document.getElementById("source");
+  loadNews();
+  // Search input event
+  searchInput.addEventListener("input", () => {
+    const searchTerm = searchInput.value;
+    const source = sourceSelect.value;
+    loadNews(searchTerm, source); // No reset needed
+  });
+
+  // Source dropdown change event
+  sourceSelect.addEventListener("change", () => {
+    const searchTerm = searchInput.value;
+    const source = sourceSelect.value;
+    loadNews(searchTerm, source, true); // Reset so it re-fetches
+  });
+});
