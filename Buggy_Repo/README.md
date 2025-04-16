@@ -56,7 +56,7 @@ Poojitha, 2024101055
 | 11  |  css little                                        |               | chandana             |
 >>>>>>> Stashed changes
 | 12  |          profile.html                              |   hasini            |  hasini            |
-| 13  |                                          |               |              |
+| 13  |models.py:Item class is not inheriting from BaseModel| Poojitha    | Poojitha     |
 | 14  |                                          |               |              |
 | 15  |                                          |               |              |
 | 16  |                                          |               |              |
